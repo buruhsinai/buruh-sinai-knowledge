@@ -1,8 +1,10 @@
-# Sumber: Kesehatan
+# Sumber: Ranah Kesehatan
 
-Repo asal: buruhsinai/<repo-website> — folder `kesehatan/`
+Base: `https://buruhsinai.github.io/qiladat/kesehatan/`
 
-- [kesehatan/index.html](https://github.com/buruhsinai/<repo-website>/blob/main/kesehatan/index.html)
-- [kesehatan/terapi.html](https://github.com/buruhsinai/<repo-website>/blob/main/kesehatan/terapi.html)
-- [kesehatan/produk.html](https://github.com/buruhsinai/<repo-website>/blob/main/kesehatan/produk.html)
-- [kesehatan/media.html](https://github.com/buruhsinai/<repo-website>/blob/main/kesehatan/media.html)
+| Halaman | Link | Keterangan |
+|---|---|---|
+| Index | https://buruhsinai.github.io/qiladat/kesehatan/ | Halaman utama ranah Kesehatan |
+| Terapi | https://buruhsinai.github.io/qiladat/kesehatan/terapi.html | Konten terapi |
+| Produk | https://buruhsinai.github.io/qiladat/kesehatan/produk.html | Produk kesehatan |
+| Media | https://buruhsinai.github.io/qiladat/kesehatan/media.html | Media terkait kesehatan |
