@@ -1,9 +1,11 @@
-# Sumber: Dien
+# Sumber: Ranah Dien
 
-Repo asal: buruhsinai/<repo-website> — folder `dien/`
+Base: `https://buruhsinai.github.io/qiladat/dien/`
 
-- [dien/index.html](https://github.com/buruhsinai/<repo-website>/blob/main/dien/index.html)
-- [dien/syair.html](https://github.com/buruhsinai/<repo-website>/blob/main/dien/syair.html)
-- [dien/pondok.html](https://github.com/buruhsinai/<repo-website>/blob/main/dien/pondok.html)
-- [dien/rangkuman.html](https://github.com/buruhsinai/<repo-website>/blob/main/dien/rangkuman.html)
-- [dien/media.html](https://github.com/buruhsinai/<repo-website>/blob/main/dien/media.html)
+| Halaman | Link | Keterangan |
+|---|---|---|
+| Index | https://buruhsinai.github.io/qiladat/dien/ | Halaman utama ranah Dien |
+| Pondok | https://buruhsinai.github.io/qiladat/dien/pondok.html | Konten pondok |
+| Rangkuman | https://buruhsinai.github.io/qiladat/dien/rangkuman.html | Rangkuman materi |
+| Syair | https://buruhsinai.github.io/qiladat/dien/syair.html | Bait Syair Pilihan (dari Bank Syair via kurasi editorial) |
+| Media | https://buruhsinai.github.io/qiladat/dien/media.html | Media terkait Dien |
