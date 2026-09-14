@@ -43,3 +43,8 @@ tersebut tanpa mengubah prinsip utama sistem.
 ## Status
 
 Gagasan awal — belum teruji.
+
+## Catatan Perkembangan
+
+Eksperimen berikutnya menguji apakah commit dapat menjadi
+jejak perkembangan gagasan.
