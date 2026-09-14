@@ -10,7 +10,9 @@ dalam sistem pengetahuan.
 
 ## Repository lain
 
-Belum dihubungkan.
+- [Qiladat Website](https://github.com/buruhsinai/qiladat)
+
+Repository utama untuk website Qiladat.
 
 ## Catatan
 
